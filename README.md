@@ -11,10 +11,10 @@
 ## 🎮 Featured Projects
 
 ### 🕹️ Project 1: Ruin Raider
-Just a simple side-scrolling shooter adventure game.
+A simple side-scrolling shooter adventure game.
 
 * **Engine/Tools:** Unity (C#)
-* **Team: 3 devs + 1 gd in two weeks only at the night time :night_owls:
+* **Team:** 3 developers + 1 game designer, developed over 2 weeks (night-time only) 🦉
 * **My Direct Contributions:**
   * Implemented enemies AI system: spawning, moving pattern
 
@@ -29,12 +29,12 @@ Just a simple side-scrolling shooter adventure game.
 ---
 
 ### 🕹️ Project 2: Symetry
-A casual puzzle mini game 
+A casual puzzle game where players move and flip puzzle pieces to create symmetrical patterns.
 
 * **Engine/Tools:** Unity (C#)
 * **Team:** 2 devs working on free time in few weeks
 * **My Direct Contributions:**
-  * Move and flip puzzle pieces to create a symmetrical pattern
+  * Implemented the core gameplay mechanic for moving and flipping puzzle pieces to create symmetrical patterns.
 
 <p align="center">
   <img src="img/Symetry/1.png" width="30%" />
@@ -54,7 +54,7 @@ Recreated the core gameplay loop of 20 Minutes Till Dawn in Unity within a week
   * Some UI and animation
 
 ### Some small projects I cloned for learning purposes
-* 2048 Clone — Implemented grid movement, tile merging, animations, and score management.
+* 2048 — Implemented grid movement, tile merging, animations, and score management.
 * Tower Defense Prototype — Built enemy pathfinding, wave spawning, targeting, and tower upgrade systems.
 * Match-3 Prototype — Implemented match detection, cascading, and board generation.
 
