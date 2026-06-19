@@ -31,14 +31,17 @@ Just a simple side-scrolling shooter adventure game.
 ### 🕹️ Project 2: Symetry
 A casual puzzle mini game 
 
-![Gameplay Clip or Gif](https://placehold.co)
-
 * **Engine/Tools:** Unity (C#)
-* **Team:** 2 devs working on free time in 
+* **Team:** 2 devs working on free time in few weeks
 * **My Direct Contributions:**
   * Move and flip puzzle pieces to create a symmetrical pattern
 
-
+<p align="center">
+  <img src="img/Symetry/1.jpg" width="23%" />
+  <img src="img/Symetry/2.jpg" width="23%" />
+  <img src="img/Symetry/3.jpg" width="23%" />
+  <img src="img/Symetry/4.jpg" width="23%" />
+</p>
 
 ---
 
