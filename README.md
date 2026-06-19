@@ -37,10 +37,10 @@ A casual puzzle mini game
   * Move and flip puzzle pieces to create a symmetrical pattern
 
 <p align="center">
-  <img src="img/Symetry/1.jpg" width="23%" />
-  <img src="img/Symetry/2.jpg" width="23%" />
-  <img src="img/Symetry/3.jpg" width="23%" />
-  <img src="img/Symetry/4.jpg" width="23%" />
+  <img src="img/Symetry/1.png" width="23%" />
+  <img src="img/Symetry/2.png" width="23%" />
+  <img src="img/Symetry/3.png" width="23%" />
+  <img src="img/Symetry/4.png" width="23%" />
 </p>
 
 ---
